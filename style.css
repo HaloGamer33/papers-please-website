@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+
+a:visited {
+    color: #cc2e2e;
+}
+
+a:hover {
+    color: #ff3b3b;
+}
+
+a:active {
+    color: #631616;
+}
+
+:root {
+    background-color: #202121;
+    color: white;
+}
+
+p:root {
+    margin: 0;
+    margin-top: 0;
+}
+
+.main-container {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+#artotzka-shield {
+    height: 5rem;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.photo-paragraph {
+    display: flex;
+}
+
+#papers-please-poster {
+    height: 38rem;
+}
+
+.paragraph-poster {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+.list-poster {
+    margin-left: 3.5rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+hr.rounded {
+  border-top: 8px solid #000000;
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Container for the images */
+.row-glory {
+  display: flex;
+  margin-top: 3rem;
+}
+
+/* Image container */
+.column {
+  flex: 33.33%  ;
+  padding: 0.5rem;
+}
+
+.map-img {
+    float: left;
+    margin-right: 1rem;
+    border: 0.2rem dotted #797b7b;
+}
+
+.map-background {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    background-color: #e4e6bd;
+}
+
+.p-map {
+    color: #574949;
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #202020;
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
