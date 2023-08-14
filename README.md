@@ -1,3 +1,3 @@
-# papers-please-website
-# papers-please-website
-# papers-please-website
+# Website based on the game "Papers Please"
+
+Made as a homework project
